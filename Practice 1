@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Quiz</h1>
+<br>
+<h2> Favourite Music</h2>
+<ol Type= "a">
+<li>rock</li>
+<li>pop</li>
+<li>country</li>
+<li>rap</li>
+<li>hip-hop</li>
+<li>blue grass</li>
+<li>heavy metal</li>
+</ol>  
+
+</body>
+</html>
